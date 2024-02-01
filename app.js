@@ -15,3 +15,7 @@ function myFunction() {
     }
 
 }
+
+const log= ()=>{
+    console.log("SALOM")
+}
