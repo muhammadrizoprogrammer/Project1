@@ -3,7 +3,6 @@ let Message = document.getElementById("Message");
 let footer_btn = document.getElementById("footer_btn");
 
 function myFunction() {
-console.log("salom")
     if (PhonNumber.value == "") {
         PhonNumber.style.border = "5px solid red"
     }
